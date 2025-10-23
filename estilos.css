@@ -53,21 +53,3 @@ footer {
     width: 600px;
     text-align: center;
 }
-
-.tarjeta_servicios {
-    display: flex;
-    justify-content: center;
-    align-items: center;   
-    padding: 5px;
-}
-
-.tarjeta4 {
-    font-size: 20px;
-    display: inline-block;
-    padding: 10px;
-    margin: 20px;
-    border-radius: 5px;
-    background-color: #e7e7e7;
-    width: 600px;
-    text-align: center;
-}
