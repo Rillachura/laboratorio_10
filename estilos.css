@@ -41,6 +41,7 @@ footer {
     justify-content: center;
     align-items: center;   
     padding: 5px;
+    padding-top: 15px;
 }
 
 .tarjeta2 {
@@ -59,6 +60,7 @@ footer {
     justify-content: center;
     align-items: center;   
     padding: 5px;
+    padding-top: 15px;
 }
 
 .tarjeta4 {
@@ -79,7 +81,7 @@ footer {
     align-items: center;
     flex-wrap: wrap;
     padding: 20px;
-    padding-top: 5px;
+    padding-top: 15px;
 }
 
 .tarjeta5 {
@@ -89,5 +91,24 @@ footer {
     border-radius: 5px;
     background-color: #e7e7e7;
     width: 600px;
+    text-align: center;
+}
+
+.tarjeta_nosotros {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    padding: 5px;
+    padding-bottom: 15px;
+}
+
+.tarjeta3 {
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #e7e7e7;
+    width: 200px;
     text-align: center;
 }
